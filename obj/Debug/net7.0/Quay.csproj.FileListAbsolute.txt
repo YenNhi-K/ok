@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\bin\Debug\net7.0\Quay.exe
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\bin\Debug\net7.0\Quay.deps.json
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\bin\Debug\net7.0\Quay.runtimeconfig.json
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\bin\Debug\net7.0\Quay.dll
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\bin\Debug\net7.0\Quay.pdb
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.dll
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\refint\Quay.dll
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.pdb
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\Quay.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive - The University of Technology\Documents\HocThem.NET\Quay\obj\Debug\net7.0\ref\Quay.dll
